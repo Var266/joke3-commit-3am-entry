@@ -1,9 +1,9 @@
-// make.fun entry: The 3 AM Commit Message
+// make.fun entry: The 3 AM Commit Message (re-entry)
 // Writes one original commit message to /output/entry.txt.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const ENTRY =
-  "fix: revert the 3 AM deploy I was so confident about, it took down prod (confidence: 98%, accuracy: 0%)";
+  "revert: the deploy where I fixed a typo by renaming the database to match it";
 
 // Gate check, mirroring the bounty scorer: 1-200 chars, single line, not blank.
 const chars = [...ENTRY].length;

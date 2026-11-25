@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/Var266/joke3-commit-3am-entry/rank.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e)
 [![reward](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/Var266/joke3-commit-3am-entry/reward.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e)
 
-One-line commit message for make.fun's "The 3 AM Commit Message" bounty. The program writes a single original commit message (103 characters) to `/output/entry.txt`.
+One-line commit message for make.fun's "The 3 AM Commit Message" bounty. The program writes a single original commit message (76 characters) to `/output/entry.txt`.
 
-> fix: revert the 3 AM deploy I was so confident about, it took down prod (confidence: 98%, accuracy: 0%)
+> revert: the deploy where I fixed a typo by renaming the database to match it
 
 ## Run it
 
